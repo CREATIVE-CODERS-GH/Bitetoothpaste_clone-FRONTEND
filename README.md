@@ -7,7 +7,7 @@ Welcome to the Bitetoothpaste Frontend Development project! This project is focu
 
 ## Table of Contents 📋
 
-- [Project overview](#project-overview)
+- [Project Overview](#project-overview)
 - [Frontend Structure](#frontend-structure)
 - [Developer 1 Tasks](#developer-1-tasks)
 - [Developer 2 Tasks](#developer-2-tasks)
@@ -20,7 +20,7 @@ Welcome to the Bitetoothpaste Frontend Development project! This project is focu
 
 ---
 
-## Project-overview 🚀
+### Project-overview 🚀
 
 The frontend project for Bitetoothpaste aims to provide a seamless and engaging user experience. Key tasks include:
 
