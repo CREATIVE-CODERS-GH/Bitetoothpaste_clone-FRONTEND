@@ -208,12 +208,17 @@ npm install --save-dev tailwindcss postcss autoprefixer
 
 ## Tools & Resources 🛠️
 
-- **Development**: Visual Studio Code
+- **Development**: Visual Studio Code, Webpack, Babel
+- **Design**: Figma, Adobe XD
 - **Image Sourcing**: Unsplash, Lorem Picsum, Pexels
 
 [Back to Table of Contents](#table-of-contents)
 
-
 ---
 
-This README file includes a detailed overview of the frontend development tasks, structure, resources, and database field names. Each developer's section is linked for easy navigation, and TOC links should work as expected.
+Feel free to reach out if you have any questions or need further assistance! 😊
+
+---
+```
+
+This README file should work correctly on GitHub and allow users to navigate to different sections using the Table of Contents.
