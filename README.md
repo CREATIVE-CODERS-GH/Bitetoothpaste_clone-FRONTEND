@@ -80,7 +80,6 @@ The frontend project for Bitetoothpaste aims to provide a seamless and engaging 
 - **Files**: `/src/App.js`
 - **Task**: Set up routing for all main pages (home, product, cart, login).
 
-[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -93,7 +92,6 @@ The frontend project for Bitetoothpaste aims to provide a seamless and engaging 
 ### Image Sourcing (Initial Phase)
 - **Task**: Identify and source placeholder images for product pages and banners.
 
-[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -106,7 +104,6 @@ The frontend project for Bitetoothpaste aims to provide a seamless and engaging 
 ### Image Sourcing (Initial Phase)
 - **Task**: Identify and source placeholder images for cart, checkout, and login/register pages.
 
-[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -122,7 +119,7 @@ The routing will be handled in `App.js` and will cover the following pages:
 - **Login Page**: `/login`
 - **Register Page**: `/register`
 
-[Back to Table of Contents](#table-of-contents)
+
 
 ---
 
@@ -140,7 +137,7 @@ Images needed for the website include:
 - **Pexels**: [Pexels](https://www.pexels.com)
 - **Placeholder Tools**: [Placeholder.com](https://placeholder.com)
 
-[Back to Table of Contents](#table-of-contents)
+
 
 ---
 
@@ -172,7 +169,7 @@ Images needed for the website include:
 - **userId**: ObjectId (references User)
 - **products**: Array of objects (each object includes `productId` and `quantity`)
 
-[Back to Table of Contents](#table-of-contents)
+
 
 ---
 
@@ -202,7 +199,7 @@ For development:
 npm install --save-dev tailwindcss postcss autoprefixer
 ```
 
-[Back to Table of Contents](#table-of-contents)
+
 
 ---
 
@@ -212,13 +209,8 @@ npm install --save-dev tailwindcss postcss autoprefixer
 - **Design**: Figma, Adobe XD
 - **Image Sourcing**: Unsplash, Lorem Picsum, Pexels
 
-[Back to Table of Contents](#table-of-contents)
+
+
+
 
 ---
-
-Feel free to reach out if you have any questions or need further assistance! 😊
-
----
-```
-
-This README file should work correctly on GitHub and allow users to navigate to different sections using the Table of Contents.
