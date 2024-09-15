@@ -1,3 +1,8 @@
+It looks like GitHub's markdown rendering sometimes requires specific anchor link formatting to work correctly. Here's an updated version of the README with explicit anchor links to ensure the Table of Contents (TOC) functions correctly. 
+
+### Updated README File
+
+---
 
 # Bitetoothpaste Frontend Development 📱
 
@@ -7,14 +12,16 @@ Welcome to the Bitetoothpaste Frontend Development project! This project is focu
 
 ## Table of Contents 📋
 
-- [Project Overview](#project-overview-rocket)
-- [Frontend Structure](#frontend-structure-structure)
-- [Developer Responsibilities](#developer-responsibilities-gear)
-- [Routing & Navigation](#routing--navigation-navigation)
-- [Image Sourcing](#image-sourcing-image)
-- [Database Schema](#database-schema-database)
-- [Packages](#packages-package)
-- [Tools & Resources](#tools--resources-tools)
+- [Project Overview](#project-overview)
+- [Frontend Structure](#frontend-structure)
+- [Developer 1 Tasks](#developer-1-tasks)
+- [Developer 2 Tasks](#developer-2-tasks)
+- [Developer 3 Tasks](#developer-3-tasks)
+- [Routing & Navigation](#routing--navigation)
+- [Image Sourcing](#image-sourcing)
+- [Database Schema](#database-schema)
+- [Packages](#packages)
+- [Tools & Resources](#tools--resources)
 
 ---
 
@@ -68,35 +75,43 @@ The frontend project for Bitetoothpaste aims to provide a seamless and engaging 
 
 ---
 
-## Developer Responsibilities ⚙️
+## Developer 1 Tasks ⚙️
 
-### Developer 1
+### Component Structure Planning & Static Layouts
+- **Pages**: Homepage, User Account Dashboard, Track Order Page
+- **Task**: Implement static layout for these pages using React and Tailwind CSS.
 
-1. **Component Structure Planning & Static Layouts**
-   - **Pages**: Homepage, User Account Dashboard, Track Order Page
-   - **Task**: Implement static layout for these pages using React and Tailwind CSS.
+### Routing & Navigation Setup
+- **Files**: `/src/App.js`
+- **Task**: Set up routing for all main pages (home, product, cart, login).
 
-2. **Routing & Navigation Setup**
-   - **Files**: `/src/App.js`
-   - **Task**: Set up routing for all main pages (home, product, cart, login).
+[Back to Table of Contents](#table-of-contents)
 
-### Developer 2
+---
 
-1. **Component Structure Planning & Static Layouts**
-   - **Pages**: Product Listing Page (Shop), Product Detail Page
-   - **Task**: Implement static layout for these pages using React and Tailwind CSS.
+## Developer 2 Tasks ⚙️
 
-2. **Image Sourcing (Initial Phase)**
-   - **Task**: Identify and source placeholder images for product pages and banners.
+### Component Structure Planning & Static Layouts
+- **Pages**: Product Listing Page (Shop), Product Detail Page
+- **Task**: Implement static layout for these pages using React and Tailwind CSS.
 
-### Developer 3
+### Image Sourcing (Initial Phase)
+- **Task**: Identify and source placeholder images for product pages and banners.
 
-1. **Component Structure Planning & Static Layouts**
-   - **Pages**: Cart Page, Checkout Page, Login/Register Pages
-   - **Task**: Implement static layout for these pages using React and Tailwind CSS.
+[Back to Table of Contents](#table-of-contents)
 
-2. **Image Sourcing (Initial Phase)**
-   - **Task**: Identify and source placeholder images for cart, checkout, and login/register pages.
+---
+
+## Developer 3 Tasks ⚙️
+
+### Component Structure Planning & Static Layouts
+- **Pages**: Cart Page, Checkout Page, Login/Register Pages
+- **Task**: Implement static layout for these pages using React and Tailwind CSS.
+
+### Image Sourcing (Initial Phase)
+- **Task**: Identify and source placeholder images for cart, checkout, and login/register pages.
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -111,6 +126,8 @@ The routing will be handled in `App.js` and will cover the following pages:
 - **Checkout Page**: `/checkout`
 - **Login Page**: `/login`
 - **Register Page**: `/register`
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -127,6 +144,8 @@ Images needed for the website include:
 - **Lorem Picsum**: [Lorem Picsum](https://picsum.photos)
 - **Pexels**: [Pexels](https://www.pexels.com)
 - **Placeholder Tools**: [Placeholder.com](https://placeholder.com)
+
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -158,6 +177,8 @@ Images needed for the website include:
 - **userId**: ObjectId (references User)
 - **products**: Array of objects (each object includes `productId` and `quantity`)
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## Packages 📦
@@ -186,6 +207,8 @@ For development:
 npm install --save-dev tailwindcss postcss autoprefixer
 ```
 
+[Back to Table of Contents](#table-of-contents)
+
 ---
 
 ## Tools & Resources 🛠️
@@ -194,7 +217,12 @@ npm install --save-dev tailwindcss postcss autoprefixer
 - **Design**: Figma, Adobe XD
 - **Image Sourcing**: Unsplash, Lorem Picsum, Pexels
 
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
-This README file provides a detailed overview of the frontend development tasks, structure, and resources for Bitetoothpaste, including database field names to align with the backend.
+Feel free to reach out if you have any questions or need further assistance! 😊
+
+---
+
+This README file includes a detailed overview of the frontend development tasks, structure, resources, and database field names. Each developer's section is linked for easy navigation, and TOC links should work as expected.
