@@ -7,7 +7,7 @@ Welcome to the Bitetoothpaste Frontend Development project! This project is focu
 
 ## Table of Contents 📋
 
-- [Project Overview](#project-overview)
+- [Project overview](#project-overview)
 - [Frontend Structure](#frontend-structure)
 - [Developer 1 Tasks](#developer-1-tasks)
 - [Developer 2 Tasks](#developer-2-tasks)
