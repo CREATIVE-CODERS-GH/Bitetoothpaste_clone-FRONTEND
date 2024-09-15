@@ -208,8 +208,7 @@ npm install --save-dev tailwindcss postcss autoprefixer
 
 ## Tools & Resources 🛠️
 
-- **Development**: Visual Studio Code, Webpack, Babel
-- **Design**: Figma, Adobe XD
+- **Development**: Visual Studio Code
 - **Image Sourcing**: Unsplash, Lorem Picsum, Pexels
 
 [Back to Table of Contents](#table-of-contents)
