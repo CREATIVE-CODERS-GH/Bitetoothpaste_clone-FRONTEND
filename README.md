@@ -20,7 +20,7 @@ Welcome to the Bitetoothpaste Frontend Development project! This project is focu
 
 ---
 
-## Project-Overview 🚀
+## Project-overview 🚀
 
 The frontend project for Bitetoothpaste aims to provide a seamless and engaging user experience. Key tasks include:
 
