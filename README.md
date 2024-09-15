@@ -1,8 +1,3 @@
-It looks like GitHub's markdown rendering sometimes requires specific anchor link formatting to work correctly. Here's an updated version of the README with explicit anchor links to ensure the Table of Contents (TOC) functions correctly. 
-
-### Updated README File
-
----
 
 # Bitetoothpaste Frontend Development 📱
 
@@ -219,9 +214,6 @@ npm install --save-dev tailwindcss postcss autoprefixer
 
 [Back to Table of Contents](#table-of-contents)
 
----
-
-Feel free to reach out if you have any questions or need further assistance! 😊
 
 ---
 
