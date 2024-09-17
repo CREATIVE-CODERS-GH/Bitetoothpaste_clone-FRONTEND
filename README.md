@@ -57,7 +57,7 @@ The frontend project for Bitetoothpaste aims to provide a seamless and engaging 
 |   |   |-- LoginPage.js
 |   |   |-- RegisterPage.js
 |   |   |-- TrackOrderPage.js
-|   |   |-- UserAccountDashboardPage.js
+|   |   |-- UserDashboardPage.js
 |   |
 |   |-- /utils
 |   |   |-- api.js      # API calls
