@@ -1,0 +1,17 @@
+import biteHero from "./images/biteHero.jpeg"
+import biteHero2 from "./images/biteHero2.png" 
+import biteHero3 from "./images/biteHero3.png"
+import bite1 from "./images/bite1.png"
+import bite2 from "./images/bite2.png"
+import bite3 from "./images/bite3.png"
+import review1 from "./images/review1.png"
+import elle from "./images/elle.png"
+import forbes from "./images/forbes.png"
+import goop from "./images/goop.png"
+import oprah from "./images/oprah.png"
+import people from "./images/people.png"
+import vogue from "./images/vogue.png"
+import womenshealth from "./images/womenshealth.png"
+import cosmopolitan from "./images/cosmopolitan.png"
+
+export {biteHero, biteHero2, biteHero3, bite1, bite2, bite3, review1, elle, forbes, goop, oprah, people, vogue, womenshealth, cosmopolitan}
