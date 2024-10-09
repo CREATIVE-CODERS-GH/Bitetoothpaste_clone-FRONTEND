@@ -7,11 +7,18 @@ import bite3 from "./images/bite3.png"
 import review1 from "./images/review1.png"
 import elle from "./images/elle.png"
 import forbes from "./images/forbes.png"
+import forbes2 from "./images/forbes2.png"
 import goop from "./images/goop.png"
 import oprah from "./images/oprah.png"
 import people from "./images/people.png"
 import vogue from "./images/vogue.png"
 import womenshealth from "./images/womenshealth.png"
 import cosmopolitan from "./images/cosmopolitan.png"
+import elle2 from "./images/elle2.png"
+import vogue2 from "./images/vogue2.png"
+import step1 from "./images/step1.png"
+import step2 from "./images/step2.png"
+import step3 from "./images/step3.png"
 
-export {biteHero, biteHero2, biteHero3, bite1, bite2, bite3, review1, elle, forbes, goop, oprah, people, vogue, womenshealth, cosmopolitan}
+
+export {biteHero, biteHero2, biteHero3, bite1, bite2, bite3, review1, elle, forbes, forbes2, goop, oprah, people, vogue, womenshealth, cosmopolitan, elle2, vogue2, step1, step2, step3}
