@@ -19,6 +19,12 @@ import vogue2 from "./images/vogue2.png"
 import step1 from "./images/step1.png"
 import step2 from "./images/step2.png"
 import step3 from "./images/step3.png"
+import review2 from "./images/review2.png"
+import review3 from "./images/review3.png"
+import corp from "./images/corp.png"
+import palm from "./images/palm.png"
+import vegan from "./images/vegan.png"
+import woman from "./images/woman.png"
+ 
 
-
-export {biteHero, biteHero2, biteHero3, bite1, bite2, bite3, review1, elle, forbes, forbes2, goop, oprah, people, vogue, womenshealth, cosmopolitan, elle2, vogue2, step1, step2, step3}
+export {biteHero, biteHero2, biteHero3, bite1, bite2, bite3, review1, elle, forbes, forbes2, goop, oprah, people, vogue, womenshealth, cosmopolitan, elle2, vogue2, step1, step2, step3, review2, review3, palm, vegan, corp, woman}
